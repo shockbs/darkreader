@@ -1,3 +1,14 @@
+# 4.9.93 (September 20, 2024)
+
+- Experimental design for Microsoft Edge for Android.
+
+# 4.9.92 (September 10, 2024)
+
+- Detect website's dark theme by default.
+- Use Filter mode for particular websites by default (Google Docs, Microsoft Office).
+- Restored scrollbar colors.
+- Fixed breaking on default selection color.
+
 # 4.9.90 (September 1, 2024)
 
 - Fixed "Aw, Snap" in Google Search (Chrome and Edge on Windows).
